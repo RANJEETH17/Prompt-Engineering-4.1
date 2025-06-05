@@ -1,9 +1,9 @@
 # Prompt-Engineering-4.1
 # EXP 4 Scenario-Based Report Development Utilizing Diverse Prompting Techniques- Lab Scenario: Smart Health Assistant System
 
-# Name: ATCHAYA S
+# Name: Ranjeeth B K
 
-# Reg no:212222040021
+# Reg no:212222040132
 
 # Aim:
 
